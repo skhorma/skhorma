@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**skhorma/skhorma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skhorma/skhorma** is a ✨ _special_ ✨ repository because its `README.md` ([this file](https://upload.wikimedia.org/wikipedia/commons/9/9b/Gustav_chocolate.jpg)) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
