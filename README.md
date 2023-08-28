@@ -1,5 +1,5 @@
 ### I'm Seema
 
-**skhorma/skhorma** is a ✨ _special_ ✨ repository because its `README.md` ([)](https://pin.it/6JPQFze)](https://pin.it/6JPQFze)) appears on your GitHub profile.
-![alt text]([[https://upload.wikimedia.org/wikipedia/commons/9/9b/Gustav_chocolate.jpg "Logo Title Text 1"](https://pin.it/6JPQFze](https://pin.it/6JPQFze))https://pin.it/6JPQFze)
+**skhorma/skhorma** is a ✨ _special_ ✨ repository because its `README.md` ([this file](https://i.pinimg.com/originals/f3/f9/de/f3f9de9db0af6f530c7a582fdcf0fda8.jpg)) appears on your GitHub profile. appears on your GitHub profile.
+![alt text](https://i.pinimg.com/originals/f3/f9/de/f3f9de9db0af6f530c7a582fdcf0fda8.jpg)
 
